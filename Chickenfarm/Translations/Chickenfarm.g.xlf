@@ -1,0 +1,384 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Chickenfarm">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1287095955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chicken</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chicken - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1287095955 - Method 3152277940 - NamedType 1212016460" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Chicken %1 %2 has eggs, you can't detele it.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chicken - Method OnDelete - NamedType ChickenHasEggsErr</note>
+        </trans-unit>
+        <trans-unit id="Table 1287095955 - Field 285670336 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chicken Type Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chicken - Field Chicken Type Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1287095955 - Field 2816033577 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chicken Type Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chicken - Field Chicken Type Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1287095955 - Field 995090288 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date FIlter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chicken - Field Date Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1287095955 - Field 4079240167 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Egg Type Filter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chicken - Field Egg Type Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1287095955 - Field 2393253273 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Date Modified</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chicken - Field Last Date Modified - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1287095955 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chicken - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1287095955 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chicken - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1287095955 - Field 169921814 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number of eggs produced</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chicken - Field number of eggs produced - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1287095955 - Field 1594621544 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Picture</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chicken - Field Picture - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 141441979 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chicken Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chicken Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 141441979 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chicken Type - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 141441979 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chicken Type - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 615854307 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Egg Production Header</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Egg Production Header - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 615854307 - Field 580412389 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Egg Production Header - Field Document Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 615854307 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Egg Production Header - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1031564860 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Egg Production Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Egg Production Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1031564860 - Field 2566984929 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chicken Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Egg Production Line - Field Chicken Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1031564860 - Field 4198508186 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chicken No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Egg Production Line - Field Chicken No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1031564860 - Field 1234340284 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document no.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Egg Production Line - Field Document no. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1031564860 - Field 1411087782 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Egg Production Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Egg Production Line - Field Egg Production Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1031564860 - Field 2684709004 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Egg Type Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Egg Production Line - Field Egg Type Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1031564860 - Field 727060997 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Egg Type Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Egg Production Line - Field Egg Type Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1031564860 - Field 3305136435 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line no.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Egg Production Line - Field Line no. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1031564860 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Egg Production Line - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3514551855 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Egg Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Egg Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3514551855 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Egg Type - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3514551855 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Egg Type - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3674662023 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chicken Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Chicken Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3674662023 - Control 285670336 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chicken Type Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Chicken Card - Control Chicken Type Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3674662023 - Control 2816033577 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chicken Type Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Chicken Card - Control Chicken Type Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3674662023 - Control 2393253273 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Date Modified</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Chicken Card - Control Last Date Modified - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3674662023 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Chicken Card - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3674662023 - Control 1594621544 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Picture</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Chicken Card - Control Picture - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 774237117 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chicken List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Chicken List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 774237117 - Control 739346273 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chicken Records</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Chicken List - Control Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 774237117 - Control 285670336 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chicken Type Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Chicken List - Control Chicken Type Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 774237117 - Control 2816033577 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Chicken List - Control Chicken Type Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 774237117 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Chicken List - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 774237117 - Control 169921814 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>number of eggs produced</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Chicken List - Control number of eggs produced - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 607703463 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chicken Management</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Chicken Management Rolecenter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 607703463 - Action 3866227426 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ChickenList</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Chicken Management Rolecenter - Action eChickenList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 607703463 - Action 4218025153 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ChickenTypes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Chicken Management Rolecenter - Action eChickenTypes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 607703463 - Action 516731173 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EggProduction</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Chicken Management Rolecenter - Action eEggProduction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 607703463 - Action 54529053 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Eggtypes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Chicken Management Rolecenter - Action eEggTypes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 607703463 - Action 2167928458 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EggProduction</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Chicken Management Rolecenter - Action EggProduction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 607703463 - Action 1572708512 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Master Data</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Chicken Management Rolecenter - Action MasterData - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 607703463 - Action 2290072445 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ChickenList</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Chicken Management Rolecenter - Action ChickenList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 607703463 - Action 2614197542 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ChickenTypes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Chicken Management Rolecenter - Action ChickenTypes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 607703463 - Action 3712355866 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Eggtypes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Chicken Management Rolecenter - Action EggTypes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 141441979 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chicken Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Chicken Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 141441979 - Control 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Chicken Type - Control Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 141441979 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chicker Type Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Chicken Type - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 483789363 - Control 4105281732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Egg Production Document - Control GroupName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 483789363 - Control 580412389 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Egg Production Document - Control Document Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 483789363 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Egg Production Document - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3651964366 - Control 4198508186 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chicken No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Egg Production Line List - Control Chicken No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3651964366 - Control 1234340284 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document no.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Egg Production Line List - Control Document no. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3651964366 - Control 1411087782 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Egg Production Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Egg Production Line List - Control Egg Production Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3651964366 - Control 2684709004 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Egg Type Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Egg Production Line List - Control Egg Type Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3651964366 - Control 727060997 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chicken Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Egg Production Line List - Control Egg Type Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3651964366 - Control 2704404533 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Egg Production Line List - Control Quantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2549543240 - Control 580412389 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Egg Production List - Control Document Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2549543240 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Egg Production List - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 481614339 - Control 4198508186 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chicken No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Egg Production Subpage - Control Chicken No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 481614339 - Control 1411087782 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Egg Production Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Egg Production Subpage - Control Egg Production Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 481614339 - Control 2684709004 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Egg Type Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Egg Production Subpage - Control Egg Type Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 481614339 - Control 727060997 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Egg Type Descipiption</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Egg Production Subpage - Control Egg Type Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 481614339 - Control 2704404533 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Egg Production Subpage - Control Quantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2056882042 - Control 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Egg Types - Control Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2056882042 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chicken Type Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Egg Types - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2056882042 - Action 1309305638 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insert Default Egg Types</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Egg Types - Action InsertDefaultEggTypes - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2056882042 - Action 1309305638 - Method 1377591017 - NamedType 409176484" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There are already Egg Types in the table</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Egg Types - Action InsertDefaultEggTypes - Method OnAction - NamedType EggTypeNotEmptyErr</note>
+        </trans-unit>
+        <trans-unit id="Profile 3877252339 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chicken Management</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Profile Chicken Management Profile - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
